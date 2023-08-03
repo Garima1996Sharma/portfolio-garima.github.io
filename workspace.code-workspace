@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\Fetch API exercise Lab Starter Files for Students (2)\\Fetch API exercise Lab"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\BMICalculator\\BMI"
+		},
+		{
+			"path": "..\\StudentsAPI Project\\Students - API Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Students - API Project"
+	}
+}

@@ -1,0 +1,69 @@
+{  
+    "projects": [
+        
+        {
+            "id": "0",
+            "project_name": "Pagination",
+            "description": "It will show the information for different people, 10 on each page and your can click next page to see the others.",
+            "technologies":["html", "javascript"],
+            "image_url":["/images/pagination.png", "/images/pagination1.png", "https://gari1996.github.io/gari1996-github.io-Garima_P02/","https://github.com/Gari1996/gari1996-github.io-Garima_P02.git"]
+        },
+        {
+            "id": "1",
+            "project_name": "Madison Market",
+            "description": "It will show the drop down menu when user click on them and when move the mouse it disappears.",
+            "technologies":["html", "javascript","AJAX"],
+            "image_url":["/images/Madison.png", "/images/MadisonView.png", "https://gari1996.github.io/gari1996-github.io-Garima_P02-Garima_P03/","https://github.com/Gari1996/gari1996-github.io-Garima_P02-Garima_P03.git"]
+        },
+        {
+            "id": "2",
+            "project_name": "Random Quote",
+            "description": "It shows the random quotes when user click on the button.",
+            "technologies":["html", "javascript"],
+            "image_url":["/images/randomQuote.png", "/images/RandomQuote1.png", "https://gari1996.github.io/","https://github.com/Gari1996/Gari1996.github.io.git","https://github.com/Gari1996/gari1996-github.io-Garima_P02.git"]
+           
+        },
+        {
+            "id": "3",
+            "project_name": "BMI Calculator",
+            "description": "It will calculate the body mass index.",
+            "technologies":["html", "javascript", "pug"],
+            "image_url":["/images/BMI.png", "/images/BMIOutput.png","/images/BMIOutput.png","https://github.com/Gari1996/gari1996.github.io-gari1996-github.io-Garima_P02-Garima_P03_BMI.git"]
+
+        },
+        {
+            "id": "4",
+            "project_name": "Coupoun Recommendation",
+            "description": "Predict whether a person will accept the coupon recommended to him in different driving scenarios.",
+            "technologies":["Python"],
+            "image_url":["/images/couponRecommendDataPrep.png", "/images/couponRecommendAfterPrep.png","/images/CouponRecommendConfusionMatrix.png","https://github.com/Garima1996Sharma/PredictionCouponRecommendation.git"]
+
+        },
+        {
+            "id": "5",
+            "project_name": "Enrollment Prediction",
+            "description": "Prepare dataset for enrollment in different courses.",
+            "technologies":["Python"],
+            "image_url":["/images/EnrollmentUncleanedHeatmap.png", "/images/EnrollmentCleanedScatterPlot.png","/images/EnrollmentCleanedCount.png","https://github.com/Garima1996Sharma/Enrollment-Prediction.git"]
+
+        },
+        {
+            "id": "6",
+            "project_name": "Enrollment Prediction Models",
+            "description": "Predict which course has more enrollment as compared to the others.",
+            "technologies":["Python"],
+            "image_url":["/images/PredictEnrollModelPic1.png", "/images/PredictEnrollModelPic3.png","/images/PredictEnrollModelPic2.png","https://github.com/Garima1996Sharma/EnrollmentProjectModels.git"]
+
+        },
+        {
+            "id": "7",
+            "project_name": "Enrollment Prediction Models Using Pipeline",
+            "description": "Predict which course has more enrollment as compared to the others using pipeline.",
+            "technologies":["Python"],
+            "image_url":["/images/Silhouette.png", "/images/Clustering.png","/images/elbow.png","https://github.com/Garima1996Sharma/Clustering-and-MLP.git"]
+
+        }
+    ]
+}
+
+
